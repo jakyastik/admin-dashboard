@@ -1,0 +1,18 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+.container {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-template-rows: 100vh;
+}
+
+.sidebar {
+    background: #333;
+}
+
+.dashboard {
+    background: #f2f2f2;
+}
+
